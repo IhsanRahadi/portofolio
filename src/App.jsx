@@ -716,7 +716,7 @@ function App() {
             </div>
             <div className="bg-white p-6 border-2 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-1 transition-transform">
               <h4 className="font-black text-xl mb-3">🌐 Jaringan</h4>
-              <p className="font-medium text-gray-700">Melakukan <b>monitoring jaringan kantor</b> dan memahami konfigurasi jaringan melalui proyek.</p>
+              <p className="font-medium text-gray-700">Melakukan <b>monitoring jaringan kantor</b> dan memahami konfigurasi jaringan.</p>
             </div>
             <div className="bg-white p-6 border-2 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,1)] hover:-translate-y-1 transition-transform">
               <h4 className="font-black text-xl mb-3">💻 Frontend Web</h4>
